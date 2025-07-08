@@ -40,6 +40,9 @@ PER_PROJECT_PERMITTED_FILES = {
     'bzip2': [
         'test.py',
     ],
+    'cfitsio': [
+        'test_compare.py',
+    ],
     'curl': [
         'buildinfo.txt.meson',
         'extract.mk',
